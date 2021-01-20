@@ -1,0 +1,6 @@
+TILEMAP
+1 1 -- Size of tile map in tiles
+640 360						-- Tile size & block size
+images/scenes/credits.png 	-- Tilesheet
+1 1		-- Number of tiles in tilesheet
+0
